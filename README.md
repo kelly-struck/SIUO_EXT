@@ -1,3 +1,3 @@
 Building upon the research from the paper "Safe Inputs but Unsafe Output: Benchmarking Cross-modality Safety Alignment of Large Vision-Language Models," we have expanded the dataset. We continued to extend the data across the following nine categories: self-harm, dangerous behavior, morality, illegal activities & crime, controversial topics/politics, discrimination & stereotyping, religious beliefs, information misinterpretation, and privacy violation. This expansion increased the dataset from 167 to 461 high-quality data samples. Furthermore, to accommodate the rapid development of Chinese multimodal models, we have, for the first time, incorporated 174 high-quality Chinese data samples into the dataset.
 
-![Original vs. expanded dataset counts](D:\SIUO_EXT\static\data_comparison.png)
+![Original vs. expanded dataset counts](https://github.com/kelly-struck/SIUO_EXT/blob/main/static/data_comparison.png)
